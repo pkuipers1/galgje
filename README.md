@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|A|.|.|R|R|A|.|.|O|. |
+|A|.|.|R|R|A|.|.|O|N |
 |-|-|-|-|-|-|-|-|-|- |
 |1|2|3|4|5|6|7|8|9|10|
 
@@ -17,4 +17,4 @@ req2: A - ZIT ER X2 IN
 =======
 req3: O - ZIT ER X1 IN
 =======
-req4: N
+req4: N - ZIT ER X1 IN
