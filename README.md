@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|.|.|R|R|.|.|.|.|. |
+|A|.|.|R|R|A|.|.|.|. |
 |-|-|-|-|-|-|-|-|-|- |
 |1|2|3|4|5|6|7|8|9|10|
 
@@ -10,8 +10,7 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-<<<<<<< HEAD
-req1: R
+
+req1: R - ZIT ER X2 IN
 =======
 req2: A - ZIT ER X2 IN
->>>>>>> 4e68d715dea18028802ae516d586e748f3d41d36
